@@ -3,7 +3,7 @@
  *      Osclass – software for creating and publishing online classified
  *                           advertising platforms
  *
- *                        Copyright (C) 2012 OSCLASS
+ *                        Copyright (C) 2019 OSCLASS
  *
  *       This program is free software: you can redistribute it and/or
  *     modify it under the terms of the GNU Affero General Public License
@@ -24,9 +24,9 @@ function locale_nl_NL_info() {
          'name'            => 'Dutch'
         ,'short_name'      => 'Dutch'
         ,'description'     => 'Dutch translation'
-        ,'version'         => '3.3.00'
-        ,'author_name'     => 'Osclass'
-        ,'author_url'      => 'http://osclass.org/'
+        ,'version'         => '1.0.0'
+        ,'author_name'     => 'Osclass Community'
+        ,'author_url'      => 'https://github.com/navjottomer/osclass-languages'
         ,'currency_format' => '{NUMBER} {CURRENCY}'
         ,'date_format'     => 'm/d/Y'
         ,'stop_words'      => ''
